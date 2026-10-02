@@ -1,0 +1,194 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3199 >>
+stream
+BT /F1 11 Tf 54 780 Td (GDD Simplificado ? Eras Duel) Tj ET
+BT /F1 11 Tf 54 748 Td (1. Visão Geral) Tj ET
+BT /F1 11 Tf 54 716 Td (Eras Duel é um jogo de cartas e duelos por turnos com foco em colecionar cartas, montar decks e evoluir ao longo de uma campanha. O jogador não controla um personagem único, mas gerencia um conjunto de cartas representando diferentes eras e estilos de combate, como Medievo, Grécia, Nórdico e Egípcio.) Tj ET
+BT /F1 11 Tf 54 684 Td (A principal ideia é combinar a sensação de coleção e deck-building de Yu-Gi-Oh e Balatro com a progressão de ?voltar mais forte? do roguelike. O jogador abre boosters, coleta cartas, monta combinações ofensivas, defensivas e de suporte, e avança em uma sequência de enfrentamentos cada vez mais difíceis até a final mundial.) Tj ET
+BT /F1 11 Tf 54 652 Td (O jogo mantém um loop básico de:) Tj ET
+BT /F1 11 Tf 54 636 Td (- abrir recompensas;) Tj ET
+BT /F1 11 Tf 54 620 Td (- montar deck;) Tj ET
+BT /F1 11 Tf 54 604 Td (- batalhar contra oponentes;) Tj ET
+BT /F1 11 Tf 54 588 Td (- derrotar chefes e obter cartas mais fortes;) Tj ET
+BT /F1 11 Tf 54 572 Td (- melhorar a build para o próximo desafio;) Tj ET
+BT /F1 11 Tf 54 556 Td (- repetir até completar a campanha.) Tj ET
+BT /F1 12 Tf 54 524 Td (---) Tj ET
+BT /F1 11 Tf 54 492 Td (2. Objetivo do Jogo) Tj ET
+BT /F1 11 Tf 54 460 Td (O objetivo principal é vencer a campanha e se tornar campeão mundial em uma liga formada por duelos de eras históricas e mitológicas.) Tj ET
+BT /F1 12 Tf 54 428 Td (Cada confronto exige:) Tj ET
+BT /F1 11 Tf 54 412 Td (- boa gestão de energia;) Tj ET
+BT /F1 11 Tf 54 396 Td (- conhecimento das cartas e seus custos;) Tj ET
+BT /F1 11 Tf 54 380 Td (- posicionamento correto no campo;) Tj ET
+BT /F1 11 Tf 54 364 Td (- equilíbrio entre dano, defesa e suporte;) Tj ET
+BT /F1 11 Tf 54 348 Td (- escolha correta de alvos e habilidades.) Tj ET
+BT /F1 12 Tf 54 316 Td (---) Tj ET
+BT /F1 11 Tf 54 284 Td (3. Loop Principal) Tj ET
+BT /F1 11 Tf 54 252 Td (3.1. Início da Partida) Tj ET
+BT /F1 11 Tf 54 236 Td (O jogador começa com um deck inicial pequeno, composto por cartas de várias eras e funções. O foco inicial é aprender as regras de combate e o custo de energia de cada carta.) Tj ET
+BT /F1 11 Tf 54 204 Td (3.2. Combate e Progressão) Tj ET
+BT /F1 11 Tf 54 188 Td (Cada combate segue a lógica de turno, com o jogador tomando decisões em sequência até que uma formação inimiga seja derrotada.) Tj ET
+BT /F1 11 Tf 54 156 Td (3.3. Recompensas) Tj ET
+BT /F1 11 Tf 54 140 Td (Ao vencer uma batalha, o jogador recebe:) Tj ET
+BT /F1 11 Tf 54 124 Td (- moedas;) Tj ET
+BT /F1 11 Tf 54 108 Td (- pontos de skill;) Tj ET
+BT /F1 11 Tf 54 92 Td (- cartas de reforço;) Tj ET
+BT /F1 11 Tf 54 76 Td (- chance de abrir booster packs.) Tj ET
+BT /F1 11 Tf 54 44 Td (Isso cria um ciclo de melhora constante e diversidade de builds.) Tj ET
+BT /F1 11 Tf 54 12 Td (3.4. Ressurgimento e Reinício) Tj ET
+BT /F1 11 Tf 54 -4 Td (Como em um roguelike, o jogador pode falhar em uma run e perder parte do progresso. Porém ele recebe retorno em valor total de recompensas e materiais para reiniciar mais forte. Isso incentiva criatividade, experimentação e tentativa de novas builds.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2549 >>
+stream
+BT /F1 12 Tf 54 780 Td (---) Tj ET
+BT /F1 11 Tf 54 748 Td (4. Mecânica de Combate) Tj ET
+BT /F1 11 Tf 54 716 Td (4.1. Energia) Tj ET
+BT /F1 11 Tf 54 700 Td (A energia é a fonte principal de ações. O sistema atual trabalha com:) Tj ET
+BT /F1 11 Tf 54 684 Td (- energia máxima de 100;) Tj ET
+BT /F1 11 Tf 54 668 Td (- partida começa com 75;) Tj ET
+BT /F1 11 Tf 54 652 Td (- regeneração base de 25 por turno;) Tj ET
+BT /F1 11 Tf 54 636 Td (- o valor pode ser incrementado por melhorias, buffs ou progressões.) Tj ET
+BT /F1 11 Tf 54 604 Td (A energia também funciona como regra de custo e balanceamento. Cartas mais fortes ou com efeitos maiores exigem mais energia.) Tj ET
+BT /F1 11 Tf 54 572 Td (4.2. Turno e Ordem) Tj ET
+BT /F1 11 Tf 54 556 Td (Os turnos são baseados em ações por carta. Cada carta pode:) Tj ET
+BT /F1 11 Tf 54 540 Td (- atacar;) Tj ET
+BT /F1 11 Tf 54 524 Td (- usar habilidade;) Tj ET
+BT /F1 11 Tf 54 508 Td (- mover para frente ou para trás;) Tj ET
+BT /F1 11 Tf 54 492 Td (- participar da formação defensiva.) Tj ET
+BT /F1 11 Tf 54 460 Td (A lógica do combate incentiva escolhas de posicionamento e gestão de tempo. Cartas na frente recebem mais foco de dano e proteção; cartas de suporte ou defesa podem ficar mais atrás.) Tj ET
+BT /F1 11 Tf 54 428 Td (4.3. Cartas e Atributos) Tj ET
+BT /F1 12 Tf 54 412 Td (Cada carta contém:) Tj ET
+BT /F1 11 Tf 54 396 Td (- nome;) Tj ET
+BT /F1 11 Tf 54 380 Td (- era temática;) Tj ET
+BT /F1 11 Tf 54 364 Td (- classe/role;) Tj ET
+BT /F1 11 Tf 54 348 Td (- HP;) Tj ET
+BT /F1 11 Tf 54 332 Td (- defesa;) Tj ET
+BT /F1 11 Tf 54 316 Td (- ataque;) Tj ET
+BT /F1 11 Tf 54 300 Td (- custo de energia;) Tj ET
+BT /F1 11 Tf 54 284 Td (- passiva;) Tj ET
+BT /F1 11 Tf 54 268 Td (- habilidade ativa.) Tj ET
+BT /F1 11 Tf 54 236 Td (Além disso, cada carta tem um papel principal dentro do sistema:) Tj ET
+BT /F1 11 Tf 54 220 Td (- Tanque) Tj ET
+BT /F1 11 Tf 54 204 Td (- Dano) Tj ET
+BT /F1 11 Tf 54 188 Td (- Suporte) Tj ET
+BT /F1 11 Tf 54 172 Td (- Defesa) Tj ET
+BT /F1 11 Tf 54 156 Td (- Ressurreição) Tj ET
+BT /F1 11 Tf 54 140 Td (- Controle) Tj ET
+BT /F1 11 Tf 54 108 Td (Esses papeis ajudam a criar sinergias e decisões de deck.) Tj ET
+BT /F1 11 Tf 54 76 Td (4.4. Habilidades) Tj ET
+BT /F1 11 Tf 54 60 Td (As habilidades variam de acordo com a carta e a era. Exemplos:) Tj ET
+BT /F1 11 Tf 54 44 Td (- ataque que ignora parte da defesa;) Tj ET
+BT /F1 11 Tf 54 28 Td (- proteção temporária;) Tj ET
+BT /F1 11 Tf 54 12 Td (- reviver cartas derrotadas;) Tj ET
+BT /F1 11 Tf 54 -4 Td (- provocar inimigos;) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 3006 >>
+stream
+BT /F1 11 Tf 54 780 Td (- buffs de ataque ou defesa.) Tj ET
+BT /F1 11 Tf 54 748 Td (As habilidades acrescentam profundidade estratégica e dão identidade a cada carta e era.) Tj ET
+BT /F1 11 Tf 54 716 Td (4.5. Alvos e Posicionamento) Tj ET
+BT /F1 11 Tf 54 700 Td (O jogador escolhe uma carta ativa e um alvo inimigo. Isso influencia diretamente o desempenho da batalha. Cartas que ficam mais na frente podem receber mais dano, enquanto aquelas mais atrás podem permitir melhor proteção ou controle.) Tj ET
+BT /F1 11 Tf 54 668 Td (A movimentação do deck é estratégica porque não apenas altera a posição da carta, como também altera a forma como o combate se desenvolve.) Tj ET
+BT /F1 12 Tf 54 636 Td (---) Tj ET
+BT /F1 11 Tf 54 604 Td (5. Progressão do Jogo) Tj ET
+BT /F1 11 Tf 54 572 Td (5.1. Coleção) Tj ET
+BT /F1 11 Tf 54 556 Td (O jogador coleta cartas principalmente por meio de booster packs obtidos ao longo da campanha. Cada pack oferece variedade de raridade, eras e estilos de jogo.) Tj ET
+BT /F1 11 Tf 54 524 Td (A coleção permite diferenciar cada run e reforça a ideia de diversidade de playstyles.) Tj ET
+BT /F1 11 Tf 54 492 Td (5.2. Deck Building) Tj ET
+BT /F1 11 Tf 54 476 Td (O jogador monta um deck que deve equilibrar:) Tj ET
+BT /F1 11 Tf 54 460 Td (- dano;) Tj ET
+BT /F1 11 Tf 54 444 Td (- defesa;) Tj ET
+BT /F1 11 Tf 54 428 Td (- energia;) Tj ET
+BT /F1 11 Tf 54 412 Td (- suporte;) Tj ET
+BT /F1 11 Tf 54 396 Td (- sinergia entre eras.) Tj ET
+BT /F1 11 Tf 54 364 Td (O deck não é apenas ?o mais forte?, mas também o mais consistente. A escolha de cartas que se complementam é o centro da progressão.) Tj ET
+BT /F1 11 Tf 54 332 Td (5.3. Skill Points e Melhorias) Tj ET
+BT /F1 11 Tf 54 316 Td (Ao vencer batalhas, o jogador ganha recursos que podem ser investidos em:) Tj ET
+BT /F1 11 Tf 54 300 Td (- aumento de energia máxima;) Tj ET
+BT /F1 11 Tf 54 284 Td (- redução de custo de determinadas cartas;) Tj ET
+BT /F1 11 Tf 54 268 Td (- melhoria de atributos;) Tj ET
+BT /F1 11 Tf 54 252 Td (- desbloqueio de sinergias futuras.) Tj ET
+BT /F1 11 Tf 54 220 Td (Isso cria uma progressão de longo prazo sem quebrar a identidade de cada run.) Tj ET
+BT /F1 11 Tf 54 188 Td (5.4. Campanha e Chefes) Tj ET
+BT /F1 11 Tf 54 172 Td (A progressão é estruturada em fases ou arenas, cada uma com um inimigo ou chefe mais forte que o anterior. Cada etapa exige adaptação da build e aumento da criatividade do jogador.) Tj ET
+BT /F1 11 Tf 54 140 Td (Os chefes têm padrões diferentes de ataque, defesa e controle, então a passagem por cada arena ajuda a testar diferentes composições.) Tj ET
+BT /F1 12 Tf 54 108 Td (---) Tj ET
+BT /F1 11 Tf 54 76 Td (6. Relação entre Combate e Progressão) Tj ET
+BT /F1 11 Tf 54 44 Td (A mecânica de combate e a progressão se conectam diretamente:) Tj ET
+BT /F1 11 Tf 54 12 Td (- O combate recompensa o jogador com recursos que tornam a próxima build mais forte.) Tj ET
+BT /F1 11 Tf 54 -4 Td (- A economia do jogo incentiva abrir boosters e experimentar combinações novas.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2440 >>
+stream
+BT /F1 11 Tf 54 780 Td (- As decisões de turno influenciam diretamente a capacidade de enfrentar desafios maiores.) Tj ET
+BT /F1 11 Tf 54 764 Td (- A perda em uma run não é um fim; o retorno de recursos permite o jogador tentar novamente, mais forte e mais informado.) Tj ET
+BT /F1 11 Tf 54 732 Td (Essa relação cria uma progressão que funciona como loop de jogo: vencer, melhorar, desafiar, repetir.) Tj ET
+BT /F1 12 Tf 54 700 Td (---) Tj ET
+BT /F1 11 Tf 54 668 Td (7. Identidade do Jogo) Tj ET
+BT /F1 12 Tf 54 636 Td (O jogo busca combinar:) Tj ET
+BT /F1 11 Tf 54 620 Td (- coleção e variedade de cartas;) Tj ET
+BT /F1 11 Tf 54 604 Td (- deck building estratégico;) Tj ET
+BT /F1 11 Tf 54 588 Td (- combate por turnos com energia e posicionamento;) Tj ET
+BT /F1 11 Tf 54 572 Td (- progressão roguelike com relançamento mais forte;) Tj ET
+BT /F1 11 Tf 54 556 Td (- estrutura temática por eras e mitologias.) Tj ET
+BT /F1 11 Tf 54 524 Td (A proposta central é oferecer uma experiência de alta variedade de builds, com espaço para criatividade e uma sensação constante de avanço.) Tj ET
+BT /F1 12 Tf 54 492 Td (---) Tj ET
+BT /F1 11 Tf 54 460 Td (8. Premissas de Balanceamento) Tj ET
+BT /F1 11 Tf 54 428 Td (Para manter o jogo interessante e sustentável, o sistema deve respeitar algumas regras:) Tj ET
+BT /F1 11 Tf 54 412 Td (- cartas poderosas têm custo mais alto;) Tj ET
+BT /F1 11 Tf 54 396 Td (- energia deve ser um recurso decisi?vel, não apenas ?mais dano?;) Tj ET
+BT /F1 11 Tf 54 380 Td (- construir um deck com pouca variedade deve ser menos eficiente do que combinar roles e eras certas;) Tj ET
+BT /F1 11 Tf 54 364 Td (- o jogador deve sempre sentir que uma derrota foi uma base para uma run melhor;) Tj ET
+BT /F1 11 Tf 54 348 Td (- cada chefe deve exigir uma resposta diferente e não apenas números maiores.) Tj ET
+BT /F1 12 Tf 54 316 Td (---) Tj ET
+BT /F1 11 Tf 54 284 Td (9. Conclusão) Tj ET
+BT /F1 11 Tf 54 252 Td (Eras Duel é um jogo de cartas e estratégia que mistura coleta, buildar, energia, combate por turnos e progressão de roguelike. A sinergia entre esses elementos cria uma experiência em que cada vitória abre caminho para uma nova tentativa mais forte, mais criativa e mais estratégica.) Tj ET
+BT /F1 11 Tf 54 220 Td (O objetivo central do jogo é transformar o jogador em um estrategista que não apenas vence batalhas, mas entende como cada carta, era e recompensas formam a melhor build para o próximo desafio.) Tj ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000330 00000 n 
+0000003581 00000 n 
+0000003707 00000 n 
+0000006308 00000 n 
+0000006434 00000 n 
+0000009492 00000 n 
+0000009620 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+12113
+%%EOF

@@ -1,0 +1,6 @@
+# Arquivos gerados pelo Godot e pelo editor
+.godot/
+.vscode/
+
+# Exportações podem ser geradas novamente a partir do projeto
+build/
